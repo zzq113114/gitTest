@@ -3,9 +3,7 @@ public class Test {
 
 	// win 1
 	// win 2
-	// win ������֧
-	// master �޸�
-   //  master s
-	// zhang 
-
+	// win 3
+	// master 4
+	//  master 5
 }
