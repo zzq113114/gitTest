@@ -3,6 +3,7 @@ public class Test {
 
 
 	public static void main (String[] args){
+		
 	int beernum =99;
 	String word = "bottle";
 	while (beernum>0){
