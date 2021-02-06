@@ -14,7 +14,7 @@ public class Test {
 	System.out.print(beernum+""+word+"of beer on the wall");
 	System.out.println(beernum+""+"of beer");
 	System.out.println("Take one down.");
-	System.out.println("passit around.");
+	System.out.println("ÕÅÕÛÄãÈ¥ÄÄ¸ö");
 	beernum = beernum -1;
 
 	   if (beernum>0); {
